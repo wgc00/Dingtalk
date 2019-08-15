@@ -7,7 +7,7 @@ import lombok.Data;
  * @createdDate: 2019-8-15
  * @updatedDate:
  */
-@Data
+@Data // 使用了lombok 插件
 public class Token {
 
     private int errcode;
